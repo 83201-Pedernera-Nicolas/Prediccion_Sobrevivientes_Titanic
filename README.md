@@ -13,7 +13,7 @@ gender_submission.csv → Archivo de ejemplo para la predicción de género.
 
 Como Usar:
 1- Clona el repositorio:
-  git clone https://github.com/tuusuario/titanic-prediction.git
+  git clone https://github.com/83201-Pedernera-Nicolas/Prediccion_Sobrevivientes_Titanic
 2- Instala las dependencias necesarias:
   pip install -r requirements.txt
 3- Abre y ejecuta el notebook:
