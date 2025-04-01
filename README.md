@@ -10,3 +10,11 @@ gender_submission.csv → Archivo de ejemplo para la predicción de género.
 ✅ Exploración de características clave.
 ✅ Entrenamiento de modelos de clasificación (Random Forest, XGBoost, etc.).
 ✅ Evaluación de precisión y ajuste de hiperparámetros.
+
+Como Usar:
+1- Clona el repositorio:
+  git clone https://github.com/tuusuario/titanic-prediction.git
+2- Instala las dependencias necesarias:
+  pip install -r requirements.txt
+3- Abre y ejecuta el notebook:
+  jupyter notebook Titanic.ipynb
